@@ -1,0 +1,75 @@
+Ressources graphiques Todo List
+COULEURS GENERALES
+
+Fond : #F2F6FF
+
+Cartes : #FFFFFF
+
+Bleu principal : #2680E8
+
+Titres : #102653
+
+Texte secondaire : #526484
+
+Bordures : #DCE6F7
+
+Ombres : #D8E3F5
+TACHE TERMINEE
+
+Fond : #E9F8EF
+
+Bordure : #D1EFDC
+
+Titre : #64748B (barré)
+
+Case cochée : #22A447
+
+Badge : #D1F2DC
+
+Texte badge : #16803C
+TACHE NON TERMINEE
+
+Fond : #FFFFFF
+
+Bordure : #DFE8F6
+
+Titre : #102653
+
+Case vide : #64748B
+
+Badge : #E8EDF5
+
+Texte badge : #526484
+PRIORITES
+
+Haute : fond #FDE2E2, texte #C62828
+
+Moyenne : fond #DFECFF, texte #1769D2
+
+Basse : fond #E1F6E3, texte #237A35
+
+POLICE : Lato (400, 500, 700, 900)
+ICONS
+
+ICONES : Lucide Icons
+
+CDN : https://unpkg.com/lucide@latest
+DIMENSIONS
+
+Contenu : 95%
+
+ Padding cartes : 16px
+
+ Espacement tâches : 10px
+
+ Rayon cartes : 16px
+
+ Rayon badges : 20px
+
+ Titres tâches : 18px
+
+ Descriptions : 15px
+
+ Icones : 22px
+
+ Ombre : 0 3px 12px rgba(30, 64, 175, 0.08)

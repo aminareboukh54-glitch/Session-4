@@ -1,0 +1,174 @@
+
+   * {
+    margin: 0;
+    padding: 0;}
+    
+
+body{
+    background-color:  #F2F6FF;
+    font-family: 'Lato', sans-serif;
+    color: #102653;
+    width: 95%;
+    margin: auto;
+}
+
+.hero {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 10px;
+}
+.hero svg {
+    width: 40px;
+    height: 40px;
+}
+
+
+.hero h2 {
+    margin: 5px;
+}
+
+.hero p {
+    margin: 5px 0 0;
+    color: #526484
+
+}
+.cadrs{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 25px;
+}
+.list{
+    display: flex;
+    gap: 10px;
+    margin: 10px;
+    
+}
+
+
+.cadar1,
+.cadar2,
+.cadar3 {
+    flex: 1;
+    border: 1px solid #DCE6F7;
+    border-radius: 16px;
+    padding: 16px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    box-shadow : 0px 3px 8px rgb(128, 124, 124);
+}
+.cadar2{
+    background-color: #E9F8EF;
+}
+.cadar2 svg{
+    background-color:#90cdaa;
+    border-radius: 50px;
+    padding:10px ;
+}
+.cadar1 svg{
+    background-color:#89c6ff;
+    border-radius: 50px;
+    padding: 10px;
+}
+.cadar3{
+    background-color: #FFFFFF;
+}
+.cadar3 svg{
+    background-color:#dbdee6;
+    border-radius: 50px;
+    padding: 10px;
+}
+.tache {
+      display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    background-color: #FFFFFF;
+    border: 1px solid #DFE8F6;
+    border-radius: 16px;
+    padding: 16px;
+    margin-bottom: 10px;
+    box-shadow : 0px 3px 8px rgb(128, 124, 124);
+    
+}
+
+.tache h3 {
+    color: #102653;
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.tache p {
+    color: #526484;
+    font-size: 15px;
+    line-height: 1.5;
+}
+.tache-details {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    flex-wrap: wrap;
+    font-size: 14px;
+    color: #526484;
+}
+.tache-statut {
+    margin-top: 12px;
+    font-size: 13px;
+    font-weight: 700;
+}
+.priorite {
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.priorite {
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.haute {
+    background-color: #FDE2E2;
+    color: #C62828;
+}
+
+.moyenne {
+    background-color: #DFECFF;
+    color: #1769D2;
+}
+
+.basse {
+    background-color: #E1F6E3;
+    color: #237A35;
+}
+.tache-statut {
+    font-size: 22px;
+}
+
+.icon-terminee {
+    color: #22A447;
+}
+
+.icon-non-terminee {
+    color: #64748B;
+}
+.tache {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+.tache-info {
+    flex: 1;
+}
+
+.tache svg {
+    flex-shrink: 0;
+}
+
+
+    
